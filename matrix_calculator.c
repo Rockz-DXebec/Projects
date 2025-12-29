@@ -2,7 +2,7 @@
 int main(){
     while(1){
         int ch,r1,c1,r2,c2;
-        int mat1[10][10],mat2[10][10],result[10][10];
+        int mat1[r1][c1],mat2[r2][c2],result[r1][c2];
         printf("\n=======================\n");
         printf(" MATRIX OPERATIONS MENU \n");
         printf("========================\n");
